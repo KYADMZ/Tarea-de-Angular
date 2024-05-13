@@ -1,0 +1,14 @@
+.boton {
+    background-color: #b15708;
+    border: none;
+    color: white;
+    padding: 20px 30px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  img.centrado { 
+    display: block;
+    margin: 0 auto;
+  }
